@@ -14,4 +14,4 @@ How to activate the bot-
 To activate the bot open your command prompt (if you are using visual studio just click on  terminal and new terminal it will automatically write your discord bot's
 folder destination in it but if you are using cmd copy your discord bot folder's location and write "cd [your folder's location] after that write node. (if you have installed node.js.
 As soon as youo write it after 2-3 seconds it should say whatever you wrote in console.log
-Commands-- _commands _youtube _help _hi _hii 
+Commands--   _commands _ping _youtube _help _hi _hii 
